@@ -1,0 +1,1 @@
+# everquest-item-db
